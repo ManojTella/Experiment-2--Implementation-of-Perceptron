@@ -42,4 +42,6 @@ Plot the error for each iteration
 Print the accuracy
 
 
- PROGRAM:
+ ## PROGRAM:
+ #### Developed By: Manoj Guna Sundar Tella.
+ #### Register No: 212221240026.
